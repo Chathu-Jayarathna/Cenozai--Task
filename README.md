@@ -1,4 +1,4 @@
-![Screenshot (306)](https://github.com/Chathu-Jayarathna/Cenozai-Task/assets/124165734/f8810c73-a440-4393-8401-81bf58e90f79)# Excel Uploader
+# Excel Uploader
 
 A user-friendly page for uploading Excel files to update a database. This project is built using React, Typescript, and CSS. Optional backend validation is available using Python pandas.
 
@@ -18,10 +18,10 @@ A user-friendly page for uploading Excel files to update a database. This projec
 
 ### Screenshots
 #### Before Upload Excel File
-![Screenshot (305)](https://github.com/Chathu-Jayarathna/Cenozai-Task/assets/124165734/91aa924b-7001-4492-9eb5-95ce3117291a)
+![image](https://github.com/Chathu-Jayarathna/Cenozai-Task/assets/124165734/6979d801-a674-4039-976f-70644a8ec4a4)
 
 #### After Uploading Excel File
-![Screenshot (306)](https://github.com/Chathu-Jayarathna/Cenozai-Task/assets/124165734/46a012bc-2026-4bc7-aa67-c4e317ffc7cb)
+![image](https://github.com/Chathu-Jayarathna/Cenozai-Task/assets/124165734/dd238abe-d000-48a5-8750-63c211170843)
 
 ## Optional Backend Validation (Python)
 
