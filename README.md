@@ -12,7 +12,7 @@ A user-friendly page for uploading Excel files to update a database. This projec
 
 ### Features
 
-- Accepts only Excel files (.xlsx, .xls).
+- Accepts only Excel files.
 - Simulates API call for file upload.
 - Provides feedback on successful upload or errors.
 
