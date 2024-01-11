@@ -1,0 +1,69 @@
+{
+    "items": [
+    { 
+      "package": "A1", 
+      "TagNo": "120-A-123", 
+      "EquipmentNo": "120112",
+      "Model": "ABC12345.X",
+      "Price": "34.00"
+    },
+    { 
+      "package": "B1", 
+      "TagNo": "120-B-123", 
+      "EquipmentNo": "240897",
+      "Model": "DEF98765.Y",
+      "Price": "45.00"
+    },
+    { 
+      "package": "C1", 
+      "TagNo": "120-A=C-123", 
+      "EquipmentNo": "234567",
+      "Model": "GHI12345.X",
+      "Price": "55.00"
+    },
+    { 
+      "package": "D1", 
+      "TagNo": "120-D-123", 
+      "EquipmentNo": "846734",
+      "Model": "JHL98765.Y",
+      "Price": "25.00"
+    },
+    { 
+      "package": "E1", 
+      "TagNo": "120-E-123", 
+      "EquipmentNo": "983452",
+      "Model": "MNO12345.X",
+      "Price": "65.00"
+    },
+    { 
+      "package": "F1", 
+      "TagNo": "120-F-123", 
+      "EquipmentNo": "996510",
+      "Model": "PQE98765.Y",
+      "Price": "75.00"
+    },
+    { 
+      "package": "G1", 
+      "TagNo": "120-G-123", 
+      "EquipmentNo": "562398",
+      "Model": "STU12345.X",
+      "Price": "60.00"
+    },
+    { 
+      "package": "H1", 
+      "TagNo": "120-H-123", 
+      "EquipmentNo": "567295",
+      "Model": "VWX98765.Y",
+      "Price": "90.00"
+    },
+    { 
+      "package": "I1", 
+      "TagNo": "120-I-123", 
+      "EquipmentNo": "678345",
+      "Model": "NYZ12345.X",
+      "Price": "85.00"}
+   
+  ]
+
+}
+
